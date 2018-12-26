@@ -446,24 +446,5 @@ public class BattleBoatsBoard{
                 validAnswer = false;
             }
         }
-
-
-
-//        BattleBoatsBoard BBB = new BattleBoatsBoard(3,3);
-//        BBB.setupBoard();
-//        System.out.println("Number of boats: " + BBB.getBoatQuantity());
-//        BBB.printBoard();//answer board(debug)
-//        System.out.println();
-//        System.out.println();
-//        BBB.printGameBoard(); //playerboard
-//
-//
-//        do{
-//            BBB.shot();
-//            BBB.printGameBoard();
-//        }
-//        while(!BBB.finished());//This will use !finished() method //method works
-
     }
-
 }
